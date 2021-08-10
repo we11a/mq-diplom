@@ -29,7 +29,7 @@ body {
   position: relative;
   padding: 28px 15px 129px;
   background-color: #000000;
-  background-image: url(images/banner-bg.jpg);
+  background-image: url(../images/banner-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -215,19 +215,19 @@ body {
 }
 
 .trends-item-1 {
-  background-image: url(images/trend1.jpg);
+  background-image: url(../images/trend1.jpg);
 }
 
 .trends-item-2 {
-  background-image: url(images/trend2.jpg);
+  background-image: url(../images/trend2.jpg);
 }
 
 .trends-item-3 {
-  background-image: url(images/trend3.jpg);
+  background-image: url(../images/trend3.jpg);
 }
 
 .trends-item-4 {
-  background-image: url(images/trend4.jpg);
+  background-image: url(../images/trend4.jpg);
 }
 
 .trends-item::after {
@@ -477,7 +477,7 @@ body {
   font-family: inherit;
   width: 48px;
   height: 48px;
-  background-image: url(svg/search.svg);
+  background-image: url(../svg/search.svg);
   background-size: 18px;
   background-repeat: no-repeat;
   background-position: center;
@@ -731,24 +731,24 @@ body {
 }
 
 .socials-link-pinterest {
-  background-image: url(svg/001-pinterest.svg);
+  background-image: url(../svg/001-pinterest.svg);
 }
 
 .socials-link-twitter {
-  background-image: url(svg/004-twitter.svg);
+  background-image: url(../svg/004-twitter.svg);
 }
 
 .socials-link-facebook {
-  background-image: url(svg/002-facebook-logo.svg);
+  background-image: url(../svg/002-facebook-logo.svg);
   background-size: contain;
 }
 
 .socials-link-instagram {
-  background-image: url(svg/005-instagram.svg);
+  background-image: url(../svg/005-instagram.svg);
 }
 
 .socials-link-tumblr {
-  background-image: url(svg/003-tumblr.svg);
+  background-image: url(../svg/003-tumblr.svg);
 }
 
 .copyright {
@@ -794,7 +794,7 @@ body {
   padding: 0;
   text-indent: -9999px;
   cursor: pointer;
-  background-image: url(svg/form-x.svg);
+  background-image: url(../svg/form-x.svg);
 }
 
 .feedback {
@@ -828,7 +828,7 @@ body {
   opacity: 0.54;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url(svg/form-arrows.svg);
+  background-image: url(../svg/form-arrows.svg);
   background-repeat: no-repeat;
   background-position: right 15px center;
   background-size: 8px;
@@ -843,7 +843,7 @@ option {
   display: inline-block;
   width: 17px;
   height: 17px;
-  background-image: url(svg/form-empty-circle.svg);
+  background-image: url(../svg/form-empty-circle.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 17px;
@@ -861,7 +861,7 @@ option {
   margin-left: 17px;
 }
 .radio:checked ~ .radio-group-text::before {
-  background-image: url(svg/form-circle.svg);
+  background-image: url(../svg/form-circle.svg);
 }
 
 .radio {
@@ -899,7 +899,7 @@ option {
   .header {
     padding: 42px 35px 111px;
     margin-bottom: 46px;
-    background-image: url(images/banner-bg-tablet.jpg);
+    background-image: url(../images/banner-bg-tablet.jpg);
   }
 
   .logo {
@@ -1073,7 +1073,7 @@ option {
   .header {
     padding: 25px 15px 210px;
     margin-bottom: 44px;
-    background-image: url(images/banner-mobile.jpg);
+    background-image: url(../images/banner-mobile.jpg);
   }
 
   .header-content {
